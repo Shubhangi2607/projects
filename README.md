@@ -1,2 +1,2 @@
 # projects
-sudoku solver without gui
+basic sudoku solver
